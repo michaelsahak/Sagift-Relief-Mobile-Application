@@ -26,7 +26,7 @@ To use our Mobile Application, here is a detailed step by step:
 
  - In the terminal, enter the following command to clone the repository:
 
- - `git clone` ---
+ - `git clone` https://github.com/michaelsahak/Sagift-Relief-Mobile-Application.git
 2. Switch to the 'fully_working' Branch:
  - After cloning, switch to the directory of the cloned repository by using the command:
    - `cd` donation_app/donation_project
